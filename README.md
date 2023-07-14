@@ -1,1 +1,1 @@
-# Basic full ci/cd pipiline usiing Github Actions
+# Basic full ci/cd pipiline using Github Actions
